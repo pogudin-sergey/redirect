@@ -1,0 +1,13 @@
+{
+  "name": "redirect",
+  "version": "1.0.0",
+  "description": "Application that redirects to a given URL.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pogudin Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
